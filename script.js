@@ -8,6 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   });
   
+//hitcount start
 
   // Starting point for the hit counter
 const startingCount = 1000;
@@ -31,3 +32,4 @@ hitCounterElement.textContent = hitCount;
 
 // Store the updated hit count in localStorage
 localStorage.setItem('hitCount', hitCount);
+//hitcount end
