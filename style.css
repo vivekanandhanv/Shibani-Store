@@ -4,12 +4,12 @@ body {
   }
   
   .bg-header {
-    background: linear-gradient(90deg, #ff7e5f, #feb47b);
+    background: linear-gradient(90deg, #4a008a, #575786);
     color: white;
   }
   
   .bg-nav {
-    background: linear-gradient(90deg, #ff7e5f, #feb47b);
+    background: linear-gradient(90deg, #4a008a, #575786);
   }
   
   .navbar-brand, .nav-link {
@@ -18,11 +18,11 @@ body {
   }
   
   .nav-link:hover {
-    color: #feb47b !important;
+    color: #fbff00 !important;
   }
   
   .hero {
-    background-color: #ffe5d9;
+    background-color: #dcd1ff;
     padding: 50px;
     border-radius: 20px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
@@ -39,7 +39,7 @@ body {
   }
   
   .btn-primary {
-    background: linear-gradient(90deg, #ff7e5f, #feb47b);
+    background: linear-gradient(90deg, #3700ff, #c4adfd);
     border: none;
     margin: 20px;
     align-content: center;
@@ -50,11 +50,11 @@ body {
   }
   
   .btn-primary:hover {
-    background: linear-gradient(90deg, #feb47b, #ff7e5f);
+    background: linear-gradient(90deg, #c4adfd, #3700ff);
   }
   
   .bg-footer {
-    background-color: #ff7e5f;
+    background-color:#5A2D82;
     color: white;
     padding: 20px 0;
   }
@@ -99,5 +99,3 @@ body {
       transform: translateX(-100%);
   }
 }
-
-
